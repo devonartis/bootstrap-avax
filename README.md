@@ -12,3 +12,11 @@ Need to fix ... crashed on
       user        = var.ssh_user
       host = self.public_ip
     }*/
+
+    https://medium.com/@suhasulun/deploying-to-aws-with-ansible-and-terraform-4c3be121ba51
+
+    https://faun.pub/building-repeatable-infrastructure-with-terraform-and-ansible-on-aws-3f082cd398ad
+
+    https://dev.to/mariehposa/how-to-deploy-an-application-to-aws-ec2-instance-using-terraform-and-ansible-3e78
+
+    https://acloudguru.com/hands-on-labs/deploying-to-aws-with-terraform-and-ansible
